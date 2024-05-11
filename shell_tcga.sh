@@ -1,0 +1,9 @@
+#!/bin/bash
+# python train_final_11_26.py --multiprocessing-distributed --prot_start 70 --partial_rate 0.
+python train_bag_TCGA.py --multiprocessing-distributed --loss_weight 0
+python train_bag_TCGA.py --multiprocessing-distributed --loss_weight 0.1
+python train_bag_TCGA.py --multiprocessing-distributed --loss_weight 0.2
+python train_bag_TCGA.py --multiprocessing-distributed --loss_weight 0.6
+python train_bag_TCGA.py --multiprocessing-distributed --loss_weight 0.7
+python train_bag_TCGA.py --multiprocessing-distributed --loss_weight 0.9 
+python train_bag_TCGA.py --multiprocessing-distributed --loss_weight 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
