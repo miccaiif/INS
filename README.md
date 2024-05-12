@@ -29,7 +29,7 @@ More details could be referred to the following helpful works:
 [CLAM](https://github.com/mahmoodlab/CLAM).
 
 ## Acknowledgement
-We sincerely thank [PiCO](https://github.com/hbzju/PiCO) for their contributions to the codes.
+We sincerely thank [PiCO](https://github.com/hbzju/PiCO) for their inspiration and contributions to the codes.
 
 ### Contact Information
 If you have any question, please email to me [lhqu20@fudan.edu.cn](lhqu20@fudan.edu.cn).
